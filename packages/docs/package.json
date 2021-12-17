@@ -1,0 +1,28 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "vue-guide 文档",
+  "author": "pterlon <coderliu830@gmail.com>",
+  "homepage": "https://github.com/liuyilong830/vue-guide/tree/main/packages/docs#readme",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyilong830/vue-guide.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/liuyilong830/vue-guide/issues"
+  }
+}

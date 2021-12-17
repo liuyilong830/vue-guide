@@ -1,0 +1,25 @@
+{
+  "name": "vue-guide",
+  "version": "1.0.0",
+  "description": "基于Vue3.2 的引导弹窗组件",
+  "author": "pterlon <coderliu830@gmail.com>",
+  "homepage": "https://github.com/liuyilong830/vue-guide/tree/main/packages/vue-guide#readme",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyilong830/vue-guide.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/liuyilong830/vue-guide/issues"
+  }
+}

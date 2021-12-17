@@ -1,0 +1,28 @@
+{
+  "name": "vue-guide",
+  "version": "1.0.0",
+  "description": "基于Vue3.2 的引导弹窗组件",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyilong830/vue-guide.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-guide",
+    "guide",
+    "popover"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuyilong830/vue-guide/issues"
+  },
+  "homepage": "https://github.com/liuyilong830/vue-guide#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
